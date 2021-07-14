@@ -9,3 +9,16 @@ h2 span {
 .navbar {
     padding-left: 170px;
 }
+
+footer a {
+    text-decoration: none;
+    color: grey !important;
+}
+
+ul{
+    list-style:none;
+}
+
+hr {
+    width: 72%;
+}
