@@ -13,7 +13,7 @@ h2 span {
 body {
     font-family: Arial;
     padding: 20px;
-    background: #f1f1f1;
+    background:white;
   }
   
   /* Header/Blog Title */
@@ -45,12 +45,12 @@ body {
     padding: 20px;
   }
   
-  /* Add a card effect for articles */
+  /* Add a card effect for articles
   .card {
     background-color: white;
     padding: 20px;
     margin-top: 20px;
-  }
+  } */
   
   /* Clear floats after the columns */
   .row:after {
@@ -74,3 +74,15 @@ body {
       padding: 0;
     }
   }
+
+#footerstyle a {
+    text-decoration: none;
+    color: grey !important;
+}
+
+ul{
+    list-style:none;
+}
+
+hr {
+    width: 73%;
