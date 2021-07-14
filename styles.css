@@ -1,3 +1,7 @@
 .container {
-    font-weight:lighter;
+    font-weight: lighter;
+}
+
+h2 span {
+    opacity: 0.7;
 }
