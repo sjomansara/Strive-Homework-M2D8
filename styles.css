@@ -46,7 +46,7 @@ body {
   }
   
   /* Add a card effect for articles
-  .card {
+  #card {
     background-color: white;
     padding: 20px;
     margin-top: 20px;
