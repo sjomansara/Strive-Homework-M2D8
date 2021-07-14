@@ -20,5 +20,9 @@ ul{
 }
 
 hr {
-    width: 72%;
+    width: 90%;
+}
+
+#footer {
+    width: 100%;
 }
